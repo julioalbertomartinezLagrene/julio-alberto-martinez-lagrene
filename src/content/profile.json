@@ -1,42 +1,33 @@
 {
-  "name": "Your Name",
-  "description": "Add a short bio here, then swap these starter links for your own.",
-  "avatar": "/uploads/avatar-placeholder.svg",
+  "name": "Julio Alberto Martinez Lagrene",
+  "title": "",
+  "description": "¡Hola! Soy un apasionado de la escritura, el coaching, la programación neurolingüística y los vínculos entre las personas.",
+  "avatar": "/uploads/avatar.png",
   "showAttribution": true,
-  "kind": "person",
-  "agentReady": true,
   "theme": {
-    "primary": "#6366F1",
-    "secondary": "#4F46E5",
+    "primary": "#536ee5",
+    "secondary": "#536ee5",
     "background": "#FFFFFF",
     "text": "#1F2937"
   },
   "links": [
     {
-      "title": "My Website",
+      "title": "Selección de libros digitales (ebooks) y recursos en formato electrónico sobre desarrollo personal, inspiración, bienestar mental, relaciones humanas y otras temáticas.",
       "subtitle": "yourdomain.com",
-      "url": "https://example.com",
+      "url": "https://jaml.es/ebooks/",
       "icon": "globe"
     },
     {
       "title": "Instagram",
-      "subtitle": "@yourhandle",
-      "url": "https://instagram.com/yourhandle",
+      "subtitle": "jalberto.mlagrene",
+      "url": "https://www.instagram.com/https://www.instagram.com/jalberto.mlagrene",
       "icon": "instagram"
     },
     {
-      "title": "YouTube",
-      "subtitle": "Your channel",
-      "url": "https://youtube.com/@yourhandle",
-      "icon": "youtube"
-    },
-    {
-      "title": "Email me",
-      "subtitle": "you@yourdomain.com",
-      "url": "mailto:you@yourdomain.com",
-      "icon": "mail"
+      "title": " TIENDA DE ROPA MOTIVACIONAL",
+      "subtitle": "",
+      "url": "https://jaml.es/shop/",
+      "icon": "link"
     }
-  ],
-  "metaTitle": "",
-  "metaDescription": ""
+  ]
 }
